@@ -43,7 +43,7 @@ Here are some of the projects I've worked on and am actively improving:
 
 ## 📞 Contact Me
 - **Email**: soniyasoni2410@gmail.com 📧
-- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/soniyasoni2410) 🔗
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/soniyasoni2410/) 🔗
 
 
 Feel free to explore my repositories, star your favorites ⭐, and don’t hesitate to reach out if you want to collaborate or discuss any project!
